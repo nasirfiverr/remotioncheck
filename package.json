@@ -1,0 +1,17 @@
+{
+  "name": "remotioncheck",
+  "scripts": {
+    "start": "remotion studio",
+    "render": "remotion render ElevateYourBrand out/elevate-your-brand.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.484",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "remotion": "^4.0.484"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3"
+  }
+}
